@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **Html, CSS and in the near future I want to start learning Javascript**
+- 🌱 I’m currently learning **Html, CSS, Javascript, Bootstrap....**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LukaCub?tab=repositories](https://github.com/LukaCub?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/LukaCub?tab=repositories](https://github.com/LukasCub?tab=repositories)
 
-- 📫 How to reach me **luky.shiny@gmail.com**
+- 📫 How to reach me **lcuba.webdev@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFxO6KMdOs/F8BEkjLdS9aYFKp4BpovtQ/view?utm_content=DAFxO6KMdOs&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFxO6KMdOs/F8BEkjLdS9aYFKp4BpovtQ/view?utm_content=DAFxO6KMdOs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
