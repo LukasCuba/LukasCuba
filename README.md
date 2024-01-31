@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Html, CSS, Javascript, Bootstrap....**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LukaCub?tab=repositories](https://github.com/LukasCub?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/LukasCuba?tab=repositories](https://github.com/LukasCuba?tab=repositories)
 
 - 📫 How to reach me **lcuba.webdev@gmail.com**
 
